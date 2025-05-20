@@ -234,3 +234,8 @@ chars.sort();
 console.log(chars); // ['a', 'b', 'c']
 
 let
+
+
+// ✅ All major array methods are covered with examples.
+// Practice each one to understand deeply.
+// Authored by Muhammad Raza – CodeWithSMR
