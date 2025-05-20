@@ -173,3 +173,64 @@ console.log(evens); // [2, 4]
 let nums = [1, 2, 3, 4];
 let found = nums.find(num => num > 2);
 console.log(found); // 3
+
+
+
+// 15. reduce()
+// Kya karta hai?
+// Array ke elements ko ek single value mein combine karta hai, jaise sum, product, etc.
+// Syntax: array.reduce((accumulator, currentValue) => {}, initialValue)
+
+// Example:
+let nums = [1, 2, 3, 4];
+let sum = nums.reduce((acc, val) => acc + val, 0);
+console.log(sum); // 10
+
+
+
+
+// 16. every()
+// Kya karta hai?
+// Check karta hai ke sab elements condition ko satisfy karte hain ya nahi.
+// Return: true ya false.
+
+// Example:
+let nums = [2, 4, 6];
+console.log(nums.every(n => n % 2 === 0)); // true
+
+
+
+// 17. some()
+// Kya karta hai?
+// Check karta hai ke koi ek bhi element condition satisfy karta hai ya nahi.
+// Return: true ya false.
+
+// Example:
+let nums = [1, 3, 5, 6];
+console.log(nums.some(n => n % 2 === 0)); // true (6 is even)
+
+
+
+
+// 18. reverse()
+// Kya karta hai?
+// Array ko ulta karta hai (original array ko modify karta hai).
+
+// Example:
+let arr = [1, 2, 3];
+arr.reverse();
+console.log(arr); // [3, 2, 1]
+
+
+
+
+// 19. sort()
+// Kya karta hai?
+// Array ko sort karta hai. Default: string comparison se (alphabetically). Numbers ko sort karne ke liye compare function dena hota hai.
+
+// Example:
+let chars = ['c', 'a', 'b'];
+chars.sort();
+console.log(chars); // ['a', 'b', 'c']
+
+let
