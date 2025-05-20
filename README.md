@@ -131,9 +131,9 @@ I’m continuing my journey with:
 
 ## 🙌 Connect With Me
 
-- 🧑‍💻 GitHub: [github.com/CodeWithSMR](https://github.com/CodeWithSMR)
-- 🌐 Portfolio: *(Add your portfolio link here)*
-- 📫 Email: *(Add your email here if you want)*
+- 🧑‍💻 GitHub: [github.com/CodeWithSMR](https://github.com/CodeWith-SMR)
+- 🌐 Portfolio: *(smrfolio.netlify.app)*
+- 📫 Email: *(codewithsmr@gmail.com)*
 
 ---
 
