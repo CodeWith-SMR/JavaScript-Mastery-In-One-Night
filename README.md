@@ -132,7 +132,7 @@ I’m continuing my journey with:
 ## 🙌 Connect With Me
 
 - 🧑‍💻 GitHub: [github.com/CodeWithSMR](https://github.com/CodeWith-SMR)
-- 🌐 Portfolio: *(smrfolio.netlify.app)*
+- 🌐 Portfolio: *(https://smrfolio.netlify.app/)*
 - 📫 Email: *(codewithsmr@gmail.com)*
 
 ---
