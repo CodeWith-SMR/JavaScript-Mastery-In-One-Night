@@ -28,3 +28,114 @@ js-mastery-in-one-night/ <br/>
 │ ├── ToDo List App <br/>
 │ ├── Clock App <br/>
 └── README.md <br/>
+
+
+---
+
+## 🧩 What I Learned
+
+### ✅ 01 - Variables & Constants
+- Difference between `var`, `let`, and `const`
+- Scope and redeclaration rules
+
+### ✅ 02 - Data Types
+- Primitive types: string, number, boolean, null, undefined
+- Reference types: arrays, objects
+
+### ✅ 03 - Operators
+- Arithmetic, Assignment, Comparison, Logical
+- Ternary operator and type coercion
+
+### ✅ 04 - Conditionals
+- if-else statements
+- Nested and multiple conditions
+- Switch statements
+
+### ✅ 05 - Functions
+- Function declaration vs expression
+- Arrow functions
+- Parameters vs arguments
+- Return values
+
+### ✅ 06 - Arrays
+- Push, pop, shift, unshift
+- Slice, splice, indexOf, includes
+- forEach, map, filter, reduce
+- Sorting and reversing
+
+### ✅ 07 - Loops
+- `for`, `while`, `do...while`
+- `for...of`, `for...in`
+- Loop control: `break`, `continue`
+
+### ✅ 08 - Objects
+- Creating and accessing object properties
+- Looping through objects
+- Nested objects and dot/bracket notation
+
+### ✅ 09 - JSON
+- What is JSON and how it's used
+- Converting between JS objects and JSON using `JSON.stringify()` and `JSON.parse()`
+
+### ✅ 10 - DOM (Document Object Model)
+- Selecting elements: `getElementById`, `querySelector`
+- Changing text, styles, and attributes
+- Creating and removing elements
+
+### ✅ 11 - Events
+- Adding click, input, and other event listeners
+- Event objects and handling functions
+
+### ✅ 12 - Time Functions
+- `setTimeout()` and `setInterval()`
+- Clock, timers, and delays
+
+### ✅ 13 - Callbacks
+- Understanding asynchronous behavior
+- Passing functions as arguments
+
+### ✅ 14 - Promises
+- `.then()`, `.catch()`, `.finally()`
+- Promise chaining and error handling
+
+### ✅ 15 - Async/Await
+- Writing asynchronous code in a synchronous style
+- Try/catch with async functions
+
+### ✅ 16 - Error Handling
+- Using `try`, `catch`, `finally`
+- Custom error messages and debugging
+
+---
+
+## 💡 Mini Practice Projects
+
+| Project              | Description                                |
+|----------------------|--------------------------------------------|
+| 🔢 Counter App        | Increment and decrement with UI controls   |
+| 🎨 Color Changer      | Random background color changer            |
+| 💬 Quote Generator    | Displays a random motivational quote       |
+| ✅ ToDo List App (Extra)  | Add, remove, and manage tasks            |
+| 🕒 Digital Clock App (Extra) | Real-time live digital clock display |
+
+---
+
+## 🔥 What's Next?
+
+I’m continuing my journey with:
+- Real-world JavaScript projects
+- API integration
+- React & other front-end frameworks
+
+---
+
+## 🙌 Connect With Me
+
+- 🧑‍💻 GitHub: [github.com/CodeWithSMR](https://github.com/CodeWithSMR)
+- 🌐 Portfolio: *(Add your portfolio link here)*
+- 📫 Email: *(Add your email here if you want)*
+
+---
+
+> “Practice doesn’t make perfect. Perfect practice makes perfect.” – **Muhammad Raza**
+
