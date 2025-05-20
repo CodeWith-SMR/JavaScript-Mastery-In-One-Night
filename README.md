@@ -7,7 +7,7 @@ Welcome to my JavaScript learning journey where I mastered the **core concepts o
 
 ## 📁 Folder Structure
 
-js-mastery-in-one-night/ </ br>
+js-mastery-in-one-night/ <br/>
 ├── 01_variables_and_constants.js
 ├── 02_data_types.js
 ├── 03_operators.js
