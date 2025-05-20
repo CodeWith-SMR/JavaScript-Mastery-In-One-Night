@@ -1,6 +1,6 @@
 // JavaScript Arrays – Complete Methods Guide with Detailed Explanation
 
-// Array kya hota hai?
+// Array kya hota hai? 
 // Array aik aisi list hai jisme multiple values ko ek sath store kar sakte hain.
 
 let fruits = ["apple", "banana", "mango"];
