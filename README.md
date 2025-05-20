@@ -8,23 +8,23 @@ Welcome to my JavaScript learning journey where I mastered the **core concepts o
 ## 📁 Folder Structure
 
 js-mastery-in-one-night/ <br/>
-├── 01_variables_and_constants.js
-├── 02_data_types.js
-├── 03_operators.js
-├── 04_conditionals.js
-├── 05_functions.js
-├── 06_arrays.js
-├── 07_loops.js
-├── 08_objects.js
-├── 09_json.js
-├── 10_dom.js
-├── 11_events.js
-├── 12_time_functions.js
-├── 13_callbacks.js
-├── 14_promises.js
-├── 15_async_await.js
-├── 16_error_handling.js
-├── 📁 mini-practice-projects/
-│ ├── ToDo List App
-│ ├── Clock App
-└── README.md
+├── 01_variables_and_constants.js <br/>
+├── 02_data_types.js <br/>
+├── 03_operators.js <br/>
+├── 04_conditionals.js <br/>
+├── 05_functions.js <br/>
+├── 06_arrays.js <br/>
+├── 07_loops.js <br/>
+├── 08_objects.js <br/>
+├── 09_json.js <br/>
+├── 10_dom.js <br/>
+├── 11_events.js <br/>
+├── 12_time_functions.js <br/>
+├── 13_callbacks.js <br/>
+├── 14_promises.js <br/>
+├── 15_async_await.js <br/>
+├── 16_error_handling.js <br/>
+├── 📁 mini-practice-projects/ <br/>
+│ ├── ToDo List App <br/>
+│ ├── Clock App <br/>
+└── README.md <br/>
