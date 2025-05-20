@@ -78,3 +78,19 @@ console.log(fruits.includes("grapes")); // false
 let fruits = ["apple", "banana", "mango", "banana"];
 console.log(fruits.indexOf("banana")); // 1 (pehla banana ka index)
 console.log(fruits.indexOf("grapes")); // -1
+
+
+// 7. splice()
+// Kya karta hai?
+// Array mein se kisi jagah se elements ko remove ya insert karta hai.
+
+// Syntax: array.splice(startIndex, deleteCount, item1, item2, ...)
+
+// Example:
+let arr = ["a", "b", "c", "d"];
+// 1st arg = index 1 se start karo,
+// 2nd arg = 2 elements delete karo,
+// 3rd and 4th args = "x" aur "y" insert karo
+arr.splice(1, 2, "x", "y");
+console.log(arr); // ["a", "x", "y", "d"]
+
