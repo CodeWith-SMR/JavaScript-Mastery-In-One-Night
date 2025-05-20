@@ -118,3 +118,58 @@ let arr1 = [1, 2];
 let arr2 = [3, 4];
 let combined = arr1.concat(arr2);
 console.log(combined); // [1, 2, 3, 4]
+
+
+
+// 10. join()
+// Kya karta hai?
+// Array ke elements ko string mein convert karta hai, aur unke beech specified separator daalta hai.
+
+// Example:
+let fruits = ["apple", "banana", "mango"];
+console.log(fruits.join(", ")); // "apple, banana, mango"
+
+
+
+// 11. forEach()
+// Kya karta hai?
+// Array ke har element ke liye ek function chalata hai. Return kuch nahi karta.
+
+// Example:
+let nums = [1, 2, 3];
+nums.forEach(num => {
+  console.log(num * 2); // 2, 4, 6 alag alag lines mein print hoga
+});
+
+
+
+// 12. map()
+// Kya karta hai?
+// Har element par function chalakar ek naya array banata hai jisme function ka result hota hai.
+
+// Example:
+let nums = [1, 2, 3];
+let doubled = nums.map(num => num * 2);
+console.log(doubled); // [2, 4, 6]
+
+
+
+// 13. filter()
+// Kya karta hai?
+// Condition ke mutabiq elements filter karta hai aur unka naya array banata hai.
+
+// Example:
+let nums = [1, 2, 3, 4, 5];
+let evens = nums.filter(num => num % 2 === 0);
+console.log(evens); // [2, 4]
+
+
+
+// 14. find()
+// Kya karta hai?
+// Condition ko pehla match karta element return karta hai. Agar nahi mile to undefined.
+
+// Example:
+let nums = [1, 2, 3, 4];
+let found = nums.find(num => num > 2);
+console.log(found); // 3
