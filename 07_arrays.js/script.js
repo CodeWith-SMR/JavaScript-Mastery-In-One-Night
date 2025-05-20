@@ -94,3 +94,27 @@ let arr = ["a", "b", "c", "d"];
 arr.splice(1, 2, "x", "y");
 console.log(arr); // ["a", "x", "y", "d"]
 
+
+
+// 8. slice()
+// Kya karta hai?
+// Array ke ek part ko naya array bana ke return karta hai. Original array change nahi hota.
+// Syntax: array.slice(startIndex, endIndex)
+// EndIndex wala element include nahi hota.
+
+// Example:
+let arr = [10, 20, 30, 40, 50];
+let newArr = arr.slice(1, 4);
+console.log(newArr);  // [20, 30, 40]
+console.log(arr);     // original array unchanged
+
+
+// 9. concat()
+// Kya karta hai?
+// Do ya zyada arrays ko jod kar ek naya array banata hai. Original arrays change nahi hotay.
+
+// Example:
+let arr1 = [1, 2];
+let arr2 = [3, 4];
+let combined = arr1.concat(arr2);
+console.log(combined); // [1, 2, 3, 4]
